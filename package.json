@@ -1,0 +1,20 @@
+{
+    "repository": {
+        "url": "https://github.com/code-soup/dom-js.git",
+        "type": "git"
+    },
+    "keywords": [
+        "DOM manipulation",
+        "Javascript"
+    ],
+    "description": "Collection of small frequently used Js functions for DOM elements manipulation across projects. Nothing fancy, just simple stuff. Simply for writing less code.",
+    "main": "index.js",
+    "bugs": {
+        "url": "https://github.com/code-soup/dom-js/issues"
+    },
+    "license": "GPL-3.0-or-later",
+    "author": "Vlado Bosnjak",
+    "version": "1.0.0",
+    "name": "dom-js",
+    "homepage": "https://github.com/code-soup/dom-js#readme"
+}
