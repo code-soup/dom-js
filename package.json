@@ -18,6 +18,6 @@
     "license": "GPL-3.0-or-later",
     "author": "Vlado Bosnjak",
     "version": "1.0.0",
-    "name": "@bobz/dom",
-    "homepage": "https://github.com/code-soup/dom-js#readme"
+    "name": "@bobz/dom-js",
+    "homepage": "https://github.com/code-soup/dom-js"
 }

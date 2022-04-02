@@ -7,7 +7,7 @@ Please use [Github issues](https://github.com/code-soup/dom-js/issues) to submit
 
 ## Documentation
 
-    @import dom from 'dom-js';
+    @import dom from '@bobz/dom-js';
    
 Wrapper of document.querySelector();
 
